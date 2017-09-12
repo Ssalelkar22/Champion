@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Toolkit"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Champion.Participants">
+    <ContentPage.Content>
+        <controls:RepeaterView ItemsSource="{Binding PageLinks}" >
+            <controls:RepeaterView.ItemTemplate>
+                <DataTemplate>
+                    <Frame OutlineColor="OrangeRed"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="StartAndExpand"
+               HeightRequest="120"
+               WidthRequest="350"
+               HasShadow="True"
+               Margin="20"
+               CornerRadius="15">
+
+            <StackLayout Orientation="Horizontal"
+                            Padding="5">
+
+
+                <Image x:Name="ProfileImage"
+                   WidthRequest="40"
+                   HeightRequest="40"
+                   Source="Twitter.png"/>
+
+                <StackLayout Orientation="Vertical"
+                             Padding="10,0,15,0">
+                    <Label x:Name="uName"
+                       FontSize="20"
+                       Text="User Name"/>
+                    <Label x:Name="type"
+                           FontSize="15"
+                           Text="Parent/Participant"/>
+                    <Label x:Name="email"
+                           FontSize="15"
+                           TextColor="#F5B396"
+                           Text="abc@xyz.com"/>
+                    <Label x:Name="contact"
+                           FontSize="15"
+                           TextColor="#E0688B"
+                           Text="123456789"/>
+
+                </StackLayout>
+                <StackLayout Orientation="Vertical"
+                             HorizontalOptions="EndAndExpand"
+                             Padding="15,5,1,5">
+                    <Label Text="Edit"
+                           TextColor="#E0688B"
+                           HorizontalOptions="EndAndExpand"
+                           VerticalOptions="Start"/>
+                    <Label Text="More Options"
+                           TextColor="#E0688B"
+                           VerticalOptions="EndAndExpand"
+                           HorizontalOptions="EndAndExpand"/>
+                </StackLayout>
+            </StackLayout>
+        </Frame>
+                </DataTemplate>
+            </controls:RepeaterView.ItemTemplate>
+        </controls:RepeaterView>
+    </ContentPage.Content>
+</ContentPage>

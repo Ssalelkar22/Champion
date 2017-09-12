@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Champion.add_participant"
+            
+             BackgroundImage="Background.png"
+             NavigationPage.HasNavigationBar="True">
+    <ContentPage.Content>
+
+        <StackLayout Margin="0,5,0,0"
+                     VerticalOptions="Start"
+                     Orientation="Vertical">
+            <StackLayout BackgroundColor="White">
+                <Label Text="ADD PARTICIPANT"
+                    HorizontalOptions="Start"
+                    TextColor="Black"
+                    VerticalOptions="Start"
+                    Margin="10,10,0,0"
+                    FontSize="30" />
+            </StackLayout>
+            <StackLayout   Margin="0,10,0,0"
+                          VerticalOptions="Start"
+                          Orientation="Horizontal">
+                <Entry x:Name="fname"
+                       Placeholder="First name"
+                       BackgroundColor="Transparent"
+                       WidthRequest="160"
+                       Margin="10,0,10,0"
+                       TextColor="White"/>
+                <Entry x:Name="lname"
+                       Placeholder="Last name"
+                       Margin="10,0,0,0"
+                       BackgroundColor="Transparent"
+                       WidthRequest="160"
+                       TextColor="White"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Entry x:Name="phonenumber"
+                   Keyboard="Telephone"
+                   WidthRequest="160"
+                       Margin="10,0,0,0"
+                   Placeholder="Phonenumber"
+                   HorizontalOptions="Fill"
+                       TextColor="White"
+                   />
+
+                <DatePicker x:Name="datetime"
+                           
+                            Margin="20,0,0,0"
+                             WidthRequest="160"
+                 />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                   <Picker x:Name="gender"
+                    BackgroundColor="Transparent"
+                    Margin="10,0,10,0"
+                    HeightRequest="40"
+                    TextColor="White"
+                    Opacity="75"
+                    Title="--Gender--"
+                    WidthRequest="160"/>
+                <Picker x:Name="type"
+                    BackgroundColor="Transparent"
+                    Margin="10,0,10,0"
+                    HeightRequest="40"
+                    TextColor="White"
+                    Opacity="75"
+                    Title="--type--"
+                    WidthRequest="160"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical">
+                <Entry x:Name="email"
+                       Placeholder="Email"
+                       Margin="10,0,0,0"
+                       BackgroundColor="Transparent"
+                       WidthRequest="320"
+                       TextColor="White"/>
+                <Entry x:Name="password"
+                   Keyboard="Text"
+                   Placeholder="Password"
+                   IsPassword="True"
+                   TextColor="White"
+                   Margin="10,0,10,0"/>
+            </StackLayout>
+
+           
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

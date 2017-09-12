@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Champion.MasterPage"
+             MasterBehavior="Split">
+
+    <MasterDetailPage.Master>
+        <ContentPage Title="Menu"
+                     WidthRequest="50">
+            <ContentPage.Content>
+                <StackLayout Padding="10,50,0,0">
+                    <Label Text="Menu"/>
+                    <Button Text="Home"
+                            Clicked="Home_Clicked"
+                            BorderColor="Transparent"
+                            BackgroundColor="Transparent"
+                            HorizontalOptions="StartAndExpand"/>
+                    <Button Text="Participants"
+                            Clicked="Participants_Clicked"
+                            BorderColor="Transparent"
+                            BackgroundColor="Transparent"
+                            HorizontalOptions="StartAndExpand"/>
+                    <Button Text="Events"
+                            Clicked="Events_Clicked"
+                            BorderColor="Transparent"
+                            BackgroundColor="Transparent"
+                            HorizontalOptions="StartAndExpand"/>
+                </StackLayout>
+            </ContentPage.Content>
+        </ContentPage>
+    </MasterDetailPage.Master>
+
+    <MasterDetailPage.Detail>
+    </MasterDetailPage.Detail>
+
+</MasterDetailPage>

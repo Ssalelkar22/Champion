@@ -1,0 +1,74 @@
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\bin\Debug\Champion.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\bin\Debug\Champion.pdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\obj\Debug\Champion.csprojResolveAssemblyReference.cache
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\obj\Debug\Champion.MainPage.xaml.g.cs
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\obj\Debug\Champion.App.xaml.g.cs
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\obj\Debug\Champion.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\obj\Debug\Champion.pdb
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion\obj\Debug\Champion.Register.xaml.g.cs
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\bin\Debug\Champion.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\bin\Debug\Champion.pdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\obj\Debug\Champion.csprojResolveAssemblyReference.cache
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\obj\Debug\Champion.MainPage.xaml.g.cs
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\obj\Debug\Champion.App.xaml.g.cs
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\obj\Debug\Champion.Register.xaml.g.cs
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\obj\Debug\Champion.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\obj\Debug\Champion.pdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion\obj\Debug\Champion.add_participant.xaml.g.cs
+C:\Champion\Champion\Champion\obj\Debug\Champion.csprojResolveAssemblyReference.cache
+C:\Champion\Champion\Champion\obj\Debug\Champion.MainPage.xaml.g.cs
+C:\Champion\Champion\Champion\obj\Debug\Champion.App.xaml.g.cs
+C:\Champion\Champion\Champion\obj\Debug\Champion.Register.xaml.g.cs
+C:\Champion\Champion\Champion\obj\Debug\Champion.add_participant.xaml.g.cs
+C:\Champion\Champion\Champion\obj\Debug\Champion.Participant.xaml.g.cs
+C:\Champion\Champion\Champion\obj\Debug\Champion.dll
+C:\Champion\Champion\Champion\obj\Debug\Champion.pdb
+C:\Champion\Champion\Champion\bin\Debug\Champion.dll
+C:\Champion\Champion\Champion\bin\Debug\Champion.pdb
+C:\Champion\Champion\Champion\bin\Debug\Xamarin.CustomControls.RepeaterView.dll
+C:\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Core.dll
+C:\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Core.xml
+C:\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\Projects\Champion\Champion\Champion\obj\Debug\Champion.csprojResolveAssemblyReference.cache
+S:\Projects\Champion\Champion\Champion\obj\Debug\Champion.App.xaml.g.cs
+S:\Projects\Champion\Champion\Champion\obj\Debug\Champion.Register.xaml.g.cs
+S:\Projects\Champion\Champion\Champion\obj\Debug\Champion.add_participant.xaml.g.cs
+S:\Projects\Champion\Champion\Champion\obj\Debug\Champion.Participant.xaml.g.cs
+S:\Projects\Champion\Champion\Champion\obj\Debug\Champion.dll
+S:\Projects\Champion\Champion\Champion\obj\Debug\Champion.pdb
+S:\Projects\Champion\Champion\Champion\obj\Debug\Champion.DetailsPage.xaml.g.cs
+S:\Projects\Champion\Champion\Champion\obj\Debug\Champion.Events.xaml.g.cs
+S:\Projects\Champion\Champion\Champion\obj\Debug\Champion.Home.xaml.g.cs
+S:\Projects\Champion\Champion\Champion\obj\Debug\Champion.MasterPage.xaml.g.cs
+S:\Projects\Champion\Champion\Champion\bin\Debug\Champion.dll
+S:\Projects\Champion\Champion\Champion\bin\Debug\Champion.pdb
+S:\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.CustomControls.RepeaterView.dll
+S:\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Core.dll
+S:\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Platform.dll
+S:\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Core.pdb
+S:\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Core.xml
+S:\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Platform.pdb
+S:\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\Projects\Champion\Champion\Champion\bin\Debug\Xamarin.Forms.Xaml.xml

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Champion"
+             x:Class="Champion.MainPage"
+             BackgroundImage="Background.png"
+             NavigationPage.HasNavigationBar="True">
+
+  
+    <StackLayout x:Name="layout" Margin="10,140,10,0"
+                 VerticalOptions="Start"
+                 Orientation="Vertical">
+
+
+        <ActivityIndicator x:Name="indicator" Color="Black" />
+
+
+        <Label Text="Welcome!"
+               HorizontalOptions="Center"
+               TextColor="White"
+               FontSize="35"/>
+
+        <StackLayout Margin="10,20,10,5"
+                 VerticalOptions="Start">
+            <Entry x:Name="username"
+                   Keyboard="Text"
+                   
+                   Placeholder="Username"
+                   PlaceholderColor="#F0E2E2"
+                   HorizontalOptions="Fill"
+                   TextColor="White"/>
+
+            <Entry x:Name="password"
+                   Keyboard="Text"
+                   Placeholder="Password"
+                   PlaceholderColor="#F0E2E2"
+                   HorizontalOptions="Fill"
+                   IsPassword="True"
+                   TextColor="White"/>
+
+
+            <Label Text="Forgot Password?"
+                   Margin="5,0,0,0"
+                   TextColor="#EBC4C6"
+                   FontSize="15">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"
+                                          NumberOfTapsRequired="1"/>
+                </Label.GestureRecognizers>
+            </Label>
+            <Button 
+                    Clicked="login_Clicked"
+                    Image="LoginButton.png"
+                    x:Name="login"
+                    HorizontalOptions="Center"
+                    Margin="0,10,0,0"
+                    BackgroundColor="#F6F6F6"
+                    BorderWidth="1"
+                    WidthRequest="60"
+                    HeightRequest="60"
+                    BorderColor="#F6F6F6">
+            </Button>
+            <Label Text="OR"
+               Margin="10,10,10,0"
+               HorizontalOptions="Center"
+               VerticalOptions="StartAndExpand"
+               TextColor="#F0E2E2"
+               FontSize="20"/>
+        </StackLayout>
+        <StackLayout VerticalOptions="StartAndExpand"
+                     Orientation="Horizontal"
+                     HorizontalOptions="Center">
+            <Button Image="Google.png"
+                   Margin="10,5,15,0"
+                    WidthRequest="55"
+                    HeightRequest="55"
+                    BackgroundColor="#F6F6F6"/>
+            <Button Image="Facebook.png"
+                   Margin="10,5,15,0"
+                    WidthRequest="55"
+                    HeightRequest="55"
+                    BackgroundColor="#F6F6F6"/>
+            <Button Image="Twitter.png"
+                   Margin="10,5,15,0"
+                    WidthRequest="55"
+                    HeightRequest="55"
+                    BackgroundColor="#F6F6F6"/>
+            <Button Image="LinkedIN.png"
+                   Margin="10,5,15,0"
+                    WidthRequest="55"
+                    HeightRequest="55"
+                    BackgroundColor="#F6F6F6"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal"
+                     HorizontalOptions="Center"
+                     VerticalOptions="Center">
+            <Label Text="Haven't registered yet?"
+               HorizontalOptions="Center"
+               VerticalOptions="StartAndExpand"
+               TextColor="#F7BB97"
+               FontSize="15"/>
+            <Label x:Name="register"
+                    Text="Register now!"
+                    FontSize="17"
+                    TextColor="White">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="register_Clicked"
+                                          NumberOfTapsRequired="1"/>
+                </Label.GestureRecognizers>
+            </Label>
+        </StackLayout>
+        <StackLayout VerticalOptions="EndAndExpand"
+                     Margin="0,10,0,0">
+            <Label Text="By signing in you confirm that you haave read and agree to our Privacy Policies and Terms and Conditions"
+               HorizontalOptions="Center"
+               HorizontalTextAlignment="Center"
+               TextColor="#FFB084"
+               FontSize="10"/>
+        </StackLayout>
+        
+        
+
+    </StackLayout>
+</ContentPage>

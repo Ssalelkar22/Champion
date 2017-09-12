@@ -1,0 +1,318 @@
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.pdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.apk
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.Android-Signed.apk
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\FormsViewGroup.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.pdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\FormsViewGroup.pdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\Champion.Android.csprojResolveAssemblyReference.cache
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\Champion.Android.dll
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\Champion.Android.pdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\android\bin\Champion.Android.apk
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable\icon.png
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\icon.png
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\icon.png
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\layout\tabbar.xml
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\layout\toolbar.xml
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\values\styles.xml
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\R.cs.flag
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\uploadflags.txt
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.dll.mdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\FormsViewGroup.dll.mdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.dll.mdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\Champion.Android.dll.mdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\Champion.dll.mdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\background.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\background.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\background.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\loginbutton.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\twitter.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\facebook.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\google.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\linkedin.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\facebook.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\google.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\linkedin.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\twitter.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\facebook.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\google.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\linkedin.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\twitter.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.dll
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.dll
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.pdb
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.xml
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.pdb
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.xml
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.dll.mdb
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.dll.mdb
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\ButtonCircle.FormsPlugin.Abstractions.dll.mdb
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\ButtonCircle.FormsPlugin.Android.dll.mdb
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\loginbutton.png
+C:\Users\khatavkar\documents\visual studio 2017\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\loginbutton.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.pdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.apk
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Champion.Android-Signed.apk
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Champion.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Champion.pdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Champion.dll.mdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.pdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.xml
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.dll.mdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.pdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.xml
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.dll.mdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\Champion.Android.csprojResolveAssemblyReference.cache
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\Champion.Android.dll
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\Champion.Android.pdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\android\bin\Champion.Android.apk
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\values\styles.xml
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\background.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\background.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\background.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\loginbutton.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\twitter.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\facebook.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\google.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\linkedin.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\facebook.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\google.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\linkedin.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\twitter.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\facebook.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\google.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\linkedin.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\twitter.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\loginbutton.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\loginbutton.png
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\R.cs.flag
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\uploadflags.txt
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.dll.mdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\android\assets\ButtonCircle.FormsPlugin.Abstractions.dll.mdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\android\assets\ButtonCircle.FormsPlugin.Android.dll.mdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\android\assets\Champion.Android.dll.mdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\android\assets\Champion.dll.mdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Sanket\Documents\ChampionApp\Champion\Champion\Champion.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.pdb
+C:\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.apk
+C:\Champion\Champion\Champion.Android\bin\Debug\Champion.Android-Signed.apk
+C:\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Champion.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\FormsViewGroup.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.CustomControls.RepeaterView.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Champion\Champion\Champion.Android\bin\Debug\Champion.pdb
+C:\Champion\Champion\Champion.Android\bin\Debug\Champion.dll.mdb
+C:\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.pdb
+C:\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.xml
+C:\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.dll.mdb
+C:\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.pdb
+C:\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.xml
+C:\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.dll.mdb
+C:\Champion\Champion\Champion.Android\bin\Debug\FormsViewGroup.pdb
+C:\Champion\Champion\Champion.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.CustomControls.RepeaterView.dll.mdb
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Champion\Champion\Champion.Android\obj\Debug\Champion.Android.csprojResolveAssemblyReference.cache
+C:\Champion\Champion\Champion.Android\obj\Debug\Champion.Android.dll
+C:\Champion\Champion\Champion.Android\obj\Debug\Champion.Android.pdb
+C:\Champion\Champion\Champion.Android\obj\Debug\android\bin\Champion.Android.apk
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable\icon.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\layout\tabbar.xml
+C:\Champion\Champion\Champion.Android\obj\Debug\res\layout\toolbar.xml
+C:\Champion\Champion\Champion.Android\obj\Debug\res\values\styles.xml
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\background.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\background.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\background.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\loginbutton.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\twitter.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\facebook.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\google.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\linkedin.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\facebook.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\google.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\linkedin.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\twitter.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\facebook.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\google.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\linkedin.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\twitter.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\loginbutton.png
+C:\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\loginbutton.png
+C:\Champion\Champion\Champion.Android\obj\Debug\R.cs.flag
+C:\Champion\Champion\Champion.Android\obj\Debug\uploadflags.txt
+C:\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.dll.mdb
+C:\Champion\Champion\Champion.Android\obj\Debug\android\assets\ButtonCircle.FormsPlugin.Abstractions.dll.mdb
+C:\Champion\Champion\Champion.Android\obj\Debug\android\assets\ButtonCircle.FormsPlugin.Android.dll.mdb
+C:\Champion\Champion\Champion.Android\obj\Debug\android\assets\Champion.Android.dll.mdb
+C:\Champion\Champion\Champion.Android\obj\Debug\android\assets\Champion.dll.mdb
+C:\Champion\Champion\Champion.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Champion\Champion\Champion.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Champion\Champion\Champion.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Champion\Champion\Champion.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Champion\Champion\Champion.Android\obj\Debug\android\assets\Xamarin.CustomControls.RepeaterView.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.pdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.apk
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.Android-Signed.apk
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\FormsViewGroup.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.CustomControls.RepeaterView.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.pdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.pdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.xml
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.pdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.xml
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\ButtonCircle.FormsPlugin.Android.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\FormsViewGroup.pdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\FormsViewGroup.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.CustomControls.RepeaterView.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.pdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.xml
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\Champion.Android.csprojResolveAssemblyReference.cache
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\Champion.Android.dll
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\Champion.Android.pdb
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\android\bin\Champion.Android.apk
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable\icon.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\icon.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\icon.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\layout\tabbar.xml
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\layout\toolbar.xml
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\values\styles.xml
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\background.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\background.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\background.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\loginbutton.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\twitter.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\facebook.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\google.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\linkedin.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\facebook.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\google.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\linkedin.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\twitter.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\facebook.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\google.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\linkedin.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xxhdpi\twitter.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-hdpi\loginbutton.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\res\drawable-xhdpi\loginbutton.png
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\R.cs.flag
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\uploadflags.txt
+S:\Projects\Champion\Champion\Champion.Android\bin\Debug\Champion.Android.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\ButtonCircle.FormsPlugin.Abstractions.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\ButtonCircle.FormsPlugin.Android.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\Champion.Android.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\Champion.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\Xamarin.CustomControls.RepeaterView.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+S:\Projects\Champion\Champion\Champion.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
