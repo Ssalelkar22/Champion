@@ -1,0 +1,26 @@
+calender.xaml.cs
+public CalendarPage ()
+	{
+		InitializeComponent ();
+		 st_stacker = new StackLayout ();
+		Content = st_stacker;
+
+		cal_calendarView = new CalendarView() {
+			VerticalOptions = LayoutOptions.Center,
+			HorizontalOptions = LayoutOptions.CenterAndExpand
+		};
+		st_stacker.Children.Add (cal_calendarView);
+		cal_calendarView.DateSelected += (object sender, DateTime e) => {
+			st_stacker.Children.Add(new Label() 
+				{ 
+					Text = "Date Was Selected" + e.ToString("d"),
+					VerticalOptions = LayoutOptions.Start,
+					HorizontalOptions = LayoutOptions.CenterAndExpand,
+				});
+		};
+
+
+	}
+  //Calender schedule
+  Xlabs.Forms.Controls  Calender:View
+  Google Calender API REST 
